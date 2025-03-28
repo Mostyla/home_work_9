@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 onForgotPasswordPressed: () {
                   _submitForm(
                     message: "Функция восстановления пароля",
-                    backgroundColor: Colors.black12,
+                    backgroundColor: Colors.black54,
                     isNeedToShow: true,
                   );
                 },
